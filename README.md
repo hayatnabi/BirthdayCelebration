@@ -47,25 +47,15 @@ This was created as part of an emotional reel where the journey begins with a fe
 To run this project locally:
 
 ```bash
-git clone https://github.com/Anuj579/birthday-site.git
+git clone https://github.com/hayatnabi/BirthdayCelebration.git
 cd birthday-site
 npm install
 npm run dev
 ```
 
+Note:
+This project requires to run Node.js v18.18.0 or above. Latest version is mostly recommended. 
+
 Make sure to update the target date in `Home` component if you want to reuse this.
-
----
-
-## 🌐 Connect with Me
-
-Follow for more such creative and code-based content!
-
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
----
 
 Thanks for checking out this project! If you liked it, consider giving it a ⭐️ on GitHub and sharing the reel ❤️
